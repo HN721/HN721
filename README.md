@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Junior Full stack  at ASF.ID
+IM Fullstack Developer MERN With Bachelor Degree Systems Information in Gunadarma University
 
 
 ## 🌐 Socials:
