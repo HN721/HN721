@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Fullstack Developer MERN with a Bachelor’s Degree in Information Systems from Gunadarma University, passionate about building scalable web applications and user-centric digital solutions. With experience in both frontend and backend development, I’ve led and contributed to various projects ranging from e-commerce platforms to school management systems. Proficient in technologies like React, Node.js, Express, and MongoDB, I thrive in collaborative environments where clean code, performance, and user experience are top priorities.
+I’m a Fullstack Developer MERN with a Bachelor’s Degree in Information Systems from Gunadarma University, passionate about building scalable web applications and user-centric digital solutions. With experience in both frontend and backend development, I Proficient in technologies like React, Node.js, Express, and MongoDB, I thrive in collaborative environments where clean code, performance, and user experience are top priorities.
 
 
 ## 🌐 Socials:
