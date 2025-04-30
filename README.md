@@ -2,8 +2,7 @@
 I’m a Fullstack Developer MERN with a Bachelor’s Degree in Information Systems from Gunadarma University, passionate about building scalable web applications and user-centric digital solutions. With experience in both frontend and backend development, I’ve led and contributed to various projects ranging from e-commerce platforms to school management systems. Proficient in technologies like React, Node.js, Express, and MongoDB, I thrive in collaborative environments where clean code, performance, and user experience are top priorities.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hosea Nainggolan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kecin.himura500) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hosea Nainggolan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hosea@721) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kecin.himura500) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hosea Nainggolan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hosea@721) 
 
 #
 # 📊 GitHub Stats:
